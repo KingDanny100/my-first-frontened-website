@@ -1,0 +1,346 @@
+@media only screen and (max-width: 600px) {
+    .bckground{
+        background-image: url(images/hanger.avif);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: fixed;
+    }
+    .introdiv{
+        text-align: center;
+        background-color: rgb(5, 72, 239);
+        height: 30px;
+        color: white;
+        align-items: center;
+        display: flex;
+        font-weight: bold;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        justify-content: center;
+     }
+    .introdiv div{
+        font-size: 10px;
+        font-family: unset;
+    }
+    .first, .second{
+        display: none;
+    }
+    header{
+        background-image: url(images/blues.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .navbar{
+        height: 100px;
+    }
+    .container{
+        display: flex;
+        width: 100%;
+        margin: 0 auto;
+        flex-direction: column;
+    }
+    #bodycontainer{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        max-width: 90%;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    div p{
+        font-size: 13px;
+    }
+    div img{
+        height: 100px;
+        width: 100px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    #logocontainer .introflex{
+        display: none;
+    }
+    .nammy{
+        flex-direction: row;
+        margin-top: 40px;
+    }
+    .nammy img{
+        height: 50px;
+        width: 50px;
+    }
+    .nammy div{
+        font-size: 30px;
+    }
+    #listcontainer{
+        flex-direction: row;
+        font-size: 14px;
+    }
+    .foot{
+        display: flex;
+        background-color: white;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        color: blue;
+        font-size: 15px;
+        /*position: fixed;
+        bottom: 0;*/
+        width: 100%;
+    }
+    i{
+        font-size: 18px;
+        margin-right: 15px;
+        color: blue; 
+        margin-top: 5px;
+    }
+    #listaccessories{
+        display: none;
+    }
+    .divitems0{
+        display: flex;
+        height: 30px;
+        background-color: none;
+        font-size: 15px;
+    }
+  }
+  @media only screen and (min-width: 601px) and (max-width: 800px) {
+    .bckground{
+        background-image: url(images/hanger.avif);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: fixed;
+    }
+    .introdiv{
+        text-align: center;
+        background-color: rgb(5, 72, 239);
+        height: 30px;
+        color: white;
+        align-items: center;
+        display: flex;
+        font-weight: bold;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        justify-content: center;
+     }
+    .introdiv div{
+        font-size: 10px;
+        font-family: unset;
+    }
+    .first, .second{
+        display: none;
+    }
+    header{
+        background-image: url(images/blues.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 230px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .navbar{
+        height: 100px;
+    }
+    .container{
+        display: flex;
+        width: 100%;
+        margin: 0 auto;
+        flex-direction: column;
+    }
+    #bodycontainer{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        max-width: 90%;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    div p{
+        font-size: 18px;
+    }
+    div img{
+        height: 140px;
+        width: 140px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    #logocontainer .introflex{
+        display: none;
+    }
+    .nammy{
+        flex-direction: row;
+        margin-top: 40px;
+    }
+    .nammy img{
+        height: 52px;
+        width: 52px;
+    }
+    .nammy div{
+        font-size: 33px;
+    }
+    #listcontainer{
+        flex-direction: row;
+        font-size: 14px;
+    }
+    .foot{
+        display: flex;
+        background-color: white;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        color: blue;
+        font-size: 15px;
+        /*position: fixed;
+        bottom: 0;*/
+        width: 100%;
+    }
+    i{
+        font-size: 18px;
+        margin-right: 15px;
+        color: blue; 
+        margin-top: 5px;
+    }
+    #listaccessories{
+        display: none;
+    }
+    .divitems0{
+        display: flex;
+        height: 30px;
+        background-color: none;
+        font-size: 15px;
+    }
+    .items0 a{
+        color: black;
+        font-size: 15px;
+        margin-right: auto;
+    }
+  }
+  @media only screen and (min-width: 801px) and (max-width: 950px){
+    .bckground{
+        background-image: url(images/hanger.avif);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: fixed;
+    }
+    .introdiv{
+        text-align: center;
+        background-color: rgb(5, 72, 239);
+        height: 30px;
+        color: white;
+        align-items: center;
+        display: flex;
+        font-weight: bold;
+        position: fixed;
+        width: 100%;
+        top: 0;
+        justify-content: center;
+     }
+    .introdiv div{
+        font-size: 10px;
+        font-family: unset;
+    }
+    .first, .second{
+        display: none;
+    }
+    header{
+        background-image: url(images/blues.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 310px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .navbar{
+        height: 200px;
+    }
+    .container{
+        display: flex;
+        width: 100%;
+        margin: 0 auto;
+        flex-direction: column;
+    }
+    #bodycontainer{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        max-width: 90%;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+    div p{
+        font-size: 20px;
+    }
+    div img{
+        height: 140px;
+        width: 140px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    #logocontainer {
+        display: flex;
+        width: 90%;
+        flex-direction: row;
+
+    }
+    /* #logocontainer .introflex{
+        display: none;
+    }
+    .nammy{
+        margin-top: 40px;
+    }*/
+    .nammy img{
+        height: 56px;
+        width: 56px;
+    }
+    .nammy div{
+        font-size: 37px;
+    }
+    #logocontainer button{
+        font-size: 5px;
+        height: 20px;
+        border-radius: 5px;
+        color: white;
+        border: 1px solid white;
+    }
+    #listcontainer{
+        flex-direction: row;
+        font-size: 14px;
+    }
+    .foot{
+        display: flex;
+        background-color: white;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        color: blue;
+        font-size: 15px;
+        /*position: fixed;
+        bottom: 0;*/
+        width: 100%;
+    }
+    i{
+        font-size: 18px;
+        margin-right: 15px;
+        color: blue; 
+        margin-top: 5px;
+    }
+    #listaccessories{
+        display: none;
+    }
+    .divitems0{
+        display: flex;
+        height: 30px;
+        background-color: none;
+        font-size: 15px;
+    }
+    .items0 a{
+        color: black;
+        font-size: 15px;
+        margin-right: auto;
+    }
+  }
